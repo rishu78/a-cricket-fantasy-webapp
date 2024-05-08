@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/rishu78/a-cricket-fantasy-webapp#readme",
   "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongodb": "^6.6.1",
     "mongoose": "^8.3.4"
