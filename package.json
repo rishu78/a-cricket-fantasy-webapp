@@ -1,0 +1,25 @@
+{
+  "name": "a-cricket-fantasy-webapp",
+  "version": "1.0.0",
+  "description": "A backend webapp to accept team entries for a fantasy cricket app (similar to Dream11) and process the results based on match results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishu78/a-cricket-fantasy-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishu78/a-cricket-fantasy-webapp/issues"
+  },
+  "homepage": "https://github.com/rishu78/a-cricket-fantasy-webapp#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4"
+  }
+}
